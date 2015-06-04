@@ -54,7 +54,6 @@ def run():
 		pdf_bytes = img2pdf.convert([directoryimg+"/"+item])
 		(base, ext) = item.split('.',1)
 		itempdf=directorypdf+"/"+base+".pdf"
-		print itempdf
 		file = open(itempdf,"a")
 		file.write(pdf_bytes)
 		file.close()
@@ -64,7 +63,7 @@ def run():
 	    merger.append(PdfFileReader(open(os.path.join(directorypdf, fname), 'rb')))
 
 	merger.write(filename)
-	print "End  convert to pdfs"
+	print "End  convert to pdf"
 	print "File saved at "+directoryworking+"/"+filename
 
 def logo():

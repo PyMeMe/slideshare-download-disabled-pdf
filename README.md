@@ -32,7 +32,7 @@ Example
 	Begin download slides : Please wait ...
 	End Download
 	Begin convert slides to pdf file
-	End  convert to pdfs
+	End  convert to pdf
 	File saved at /root/Desktop/slideshare download disabled pdf/report.pdf
 
     
