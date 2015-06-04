@@ -39,5 +39,9 @@ Example
 	parsing http://www.slideshare.net/HdiNaily/rapport-pfe-juin-2013?related=1
 	84 slides found
 	Begin download slides : Please wait ...
+	End Download
+	Begin convert slides to pdf file
+	End  convert to pdfs
+	File saved at /root/Desktop/slideshare download disabled pdf/report.pdf
 
     
