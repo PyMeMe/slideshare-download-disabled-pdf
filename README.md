@@ -14,7 +14,7 @@ Usage
     
 
 Usage: 
- slideshare.py -u <url> -f <output pdf  name>
+ slideshare.py -u url -f output
 	
     optional arguments:
     -h, --help  show this help message and exit
