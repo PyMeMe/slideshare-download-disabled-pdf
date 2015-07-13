@@ -2,13 +2,10 @@
 
 Installing dependency
 =====================
-$ sudo pip install img2pdf
-
-$ sudo pip install PyPDF2
-
-$ sudo apt-get install libxml2-dev libxslt-dev
-
-$ sudo pip install lxml
+$sudo pip install img2pdf
+$sudo pip install PyPDF2
+$sudo apt-get install libxml2-dev libxslt-dev
+$sudo pip install lxml
 
 Usage
 =====================
