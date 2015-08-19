@@ -27,7 +27,7 @@ Usage:
 Example
 =======
 	 
-    root@boox:~# python slideshare.py -u http://www.slideshare.net/HdiNaily/rapport-pfe-juin-2013?related=1 -f report.pdf
+    root@boox:~# python slideshare.py -u http://www.slideshare.net/sandeepsaini001/complete-guide-to-become-an-ethical-hacker -f ethical-hacker.pdf
 
 
 	parsing http://www.slideshare.net/HdiNaily/rapport-pfe-juin-2013?related=1
