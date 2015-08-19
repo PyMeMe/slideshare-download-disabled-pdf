@@ -30,12 +30,12 @@ Example
     root@boox:~# python slideshare.py -u http://www.slideshare.net/sandeepsaini001/complete-guide-to-become-an-ethical-hacker -f ethical-hacker.pdf
 
 
-	parsing http://www.slideshare.net/HdiNaily/rapport-pfe-juin-2013?related=1
+	parsing http://www.slideshare.net/sandeepsaini001/complete-guide-to-become-an-ethical-hacker
 	84 slides found
 	Begin download slides : Please wait ...
 	End Download
 	Begin convert slides to pdf file
 	End  convert to pdf
-	File saved at /root/Desktop/slideshare download disabled pdf/report.pdf
+	File saved at /root/Desktop/slideshare download disabled pdf/ethical-hacker.pdf
 
     
