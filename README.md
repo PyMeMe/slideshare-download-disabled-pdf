@@ -31,11 +31,11 @@ Example
 
 
 	parsing http://www.slideshare.net/sandeepsaini001/complete-guide-to-become-an-ethical-hacker
-	84 slides found
+	20 slides found
 	Begin download slides : Please wait ...
 	End Download
 	Begin convert slides to pdf file
 	End  convert to pdf
-	File saved at /root/Desktop/slideshare download disabled pdf/ethical-hacker.pdf
+	File saved at /root/Desktop/slideshare-download-disabled-pdf/ethical-hacker.pdf
 
     
